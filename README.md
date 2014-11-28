@@ -1,4 +1,4 @@
-imaginary
+Imaginary
 =========
 
 PhoneGap by Example
