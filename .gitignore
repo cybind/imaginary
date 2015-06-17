@@ -1,0 +1,7 @@
+# Apple Finder
+.DS_Store
+# sencha archive and build
+archive/
+build/
+# SASS cache
+resources/sass/.sass-cache
