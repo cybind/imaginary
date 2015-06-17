@@ -1,0 +1,603 @@
+2015-06-17 16:12:31.242 Imaginary[15207:182739] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Data/Application/1F8CDC59-0D66-4423-B1E2-F3D619831F84/Library/Cookies/Cookies.binarycookies
+2015-06-17 16:12:31.348 Imaginary[15207:182739] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 16:12:31.348 Imaginary[15207:182739] Multi-tasking -> Device: YES, App: YES
+2015-06-17 16:12:31.350 Imaginary[15207:182739] Unlimited access to network resources
+2015-06-17 16:12:31.353 Imaginary[15207:182739] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-17 16:12:31.466 Imaginary[15207:182739] Resetting plugins due to page load.
+2015-06-17 16:12:31.677 Imaginary[15207:182739] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Bundle/Application/D0A91331-91A9-4121-9ECB-9043784A7ED6/Imaginary.app/www/index.html
+2015-06-17 17:24:28.205 Imaginary[22697:296620] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Data/Application/F650EE44-0A1A-42F0-AAB8-9F4AE0290122/Library/Cookies/Cookies.binarycookies
+2015-06-17 17:24:28.341 Imaginary[22697:296620] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 17:24:28.342 Imaginary[22697:296620] Multi-tasking -> Device: YES, App: YES
+2015-06-17 17:24:28.346 Imaginary[22697:296620] Unlimited access to network resources
+2015-06-17 17:24:28.349 Imaginary[22697:296620] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-17 17:24:28.457 Imaginary[22697:296620] [CDVTimer][statusbar] 26.493013ms
+2015-06-17 17:24:28.462 Imaginary[22697:296620] [CDVTimer][file] 4.361987ms
+2015-06-17 17:24:28.462 Imaginary[22697:296620] [CDVTimer][TotalPluginStartup] 31.129956ms
+2015-06-17 17:24:28.575 Imaginary[22697:296620] Resetting plugins due to page load.
+2015-06-17 17:24:28.760 Imaginary[22697:296620] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Bundle/Application/3B343EA7-E483-40B9-A7DA-E5413521DC96/Imaginary.app/www/index.html
+2015-06-17 17:35:05.928 Imaginary[24579:316467] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Data/Application/B090A9CE-9F6B-4357-97D2-B7DB9EC475F4/Library/Cookies/Cookies.binarycookies
+2015-06-17 17:35:05.985 Imaginary[24579:316467] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 17:35:05.985 Imaginary[24579:316467] Multi-tasking -> Device: YES, App: YES
+2015-06-17 17:35:05.988 Imaginary[24579:316467] Unlimited access to network resources
+2015-06-17 17:35:05.990 Imaginary[24579:316467] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-17 17:35:06.084 Imaginary[24579:316467] [CDVTimer][statusbar] 21.768987ms
+2015-06-17 17:35:06.088 Imaginary[24579:316467] [CDVTimer][file] 3.427029ms
+2015-06-17 17:35:06.088 Imaginary[24579:316467] [CDVTimer][TotalPluginStartup] 25.489986ms
+2015-06-17 17:35:06.142 Imaginary[24579:316467] Resetting plugins due to page load.
+2015-06-17 17:35:06.278 Imaginary[24579:316467] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Bundle/Application/90C0E945-6D94-4B6F-85BF-127F08684516/Imaginary.app/www/index.html
+2015-06-17 17:35:08.356 Imaginary[24579:316488] Camera.getPicture: source type 1 not available.
+2015-06-17 17:35:44.205 Imaginary[25129:318540] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Data/Application/0B598767-46D1-454B-9A97-7EAE8270C65E/Library/Cookies/Cookies.binarycookies
+2015-06-17 17:35:44.262 Imaginary[25129:318540] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 17:35:44.262 Imaginary[25129:318540] Multi-tasking -> Device: YES, App: YES
+2015-06-17 17:35:44.263 Imaginary[25129:318540] Unlimited access to network resources
+2015-06-17 17:35:44.266 Imaginary[25129:318540] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-17 17:35:44.355 Imaginary[25129:318540] [CDVTimer][statusbar] 19.840002ms
+2015-06-17 17:35:44.357 Imaginary[25129:318540] [CDVTimer][file] 2.144992ms
+2015-06-17 17:35:44.357 Imaginary[25129:318540] [CDVTimer][TotalPluginStartup] 22.321999ms
+2015-06-17 17:35:44.407 Imaginary[25129:318540] Resetting plugins due to page load.
+2015-06-17 17:35:44.537 Imaginary[25129:318540] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Bundle/Application/2B76EED6-AA86-42E7-B5F1-0C9AE8DFFB9F/Imaginary.app/www/index.html
+2015-06-17 18:05:04.737 Imaginary[27963:365948] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Data/Application/5990CE7D-8D59-48D5-A06F-0F3CCE6C8278/Library/Cookies/Cookies.binarycookies
+2015-06-17 18:05:04.795 Imaginary[27963:365948] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 18:05:04.795 Imaginary[27963:365948] Multi-tasking -> Device: YES, App: YES
+2015-06-17 18:05:04.798 Imaginary[27963:365948] Unlimited access to network resources
+2015-06-17 18:05:04.800 Imaginary[27963:365948] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-17 18:05:04.914 Imaginary[27963:365948] [CDVTimer][statusbar] 22.427022ms
+2015-06-17 18:05:04.917 Imaginary[27963:365948] [CDVTimer][file] 3.084004ms
+2015-06-17 18:05:04.917 Imaginary[27963:365948] [CDVTimer][TotalPluginStartup] 25.843978ms
+2015-06-17 18:05:04.992 Imaginary[27963:365948] Resetting plugins due to page load.
+2015-06-17 18:05:05.186 Imaginary[27963:365948] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Bundle/Application/E50E15EA-82BA-4867-8D17-11D74269610F/Imaginary.app/www/index.html
+2015-06-17 18:07:27.125 Imaginary[28505:370258] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Data/Application/CCF2CE2B-F19C-4E37-9279-1727C26E6863/Library/Cookies/Cookies.binarycookies
+2015-06-17 18:07:27.181 Imaginary[28505:370258] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 18:07:27.181 Imaginary[28505:370258] Multi-tasking -> Device: YES, App: YES
+2015-06-17 18:07:27.182 Imaginary[28505:370258] Unlimited access to network resources
+2015-06-17 18:07:27.185 Imaginary[28505:370258] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-17 18:07:27.276 Imaginary[28505:370258] [CDVTimer][statusbar] 21.344006ms
+2015-06-17 18:07:27.278 Imaginary[28505:370258] [CDVTimer][file] 2.003014ms
+2015-06-17 18:07:27.278 Imaginary[28505:370258] [CDVTimer][TotalPluginStartup] 23.624003ms
+2015-06-17 18:07:27.363 Imaginary[28505:370258] Resetting plugins due to page load.
+2015-06-17 18:07:27.537 Imaginary[28505:370258] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Bundle/Application/0843D1B5-CE9F-4E57-975C-8C4DAADC0A2C/Imaginary.app/www/index.html
+2015-06-17 18:07:36.551 Imaginary[28505:370258] ERROR: Plugin 'ImageToLibraryPlugin' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-06-17 18:07:36.557 Imaginary[28505:370258] -[CDVCommandQueue executePending] [Line 159] FAILED pluginJSON = ["ImageToLibraryPlugin1036327039","ImageToLibraryPlugin","saveImage",["data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAA+gAAALuCAYAAAA9jTxNAAAAAXNSR0IArs4c6QAAQABJREFUeAHsvYmS5DiTpBlXZtXsyras7JPse+7j7JONjEz\/VZUZEaOfqikIMjyP+rt7\/suR6QRgMFM7COIg6R6P\/+\/\/9\/+\/Pyi9vztL7vLjw8OjPk3T\/vYg2pTbtPigPz6HrPLbm7gXxtNi3wvvT48P72\/RDR12w6D6UTLvbwf7MqcFyT1JHwL6+F+hzMIBwuPJjvhaxmeJHjqCoTbZxb+Tb4clodu32I\/cE\/Yqgc+\/JtOfY\/MbviouTpJ\/f9cHXpUfpZMU+x4fnp6eHt5eX5euxrLnCt7H56fwTwwkZDnaiL91ifYo2yzfAKsdnEfZ5dy+IDV06pKrrW\/1R6YSL7AeR9c7etBPGhxHQL4+yb49vcVFk8Dg3Dsmojzh\/8iTWwfypUmHfUIX7dt5fbN+bBj+0dO+NdapfRoG8\/3tq\/WAR7yJReP79Ky+hW\/omo\/DYF2Jk68Hoeo0JgYDr8rI5HxwWdiWkaV\/kbCL+EEmJ6acK+ysHZg6PcYSsQUWeGLbshsgBEgqPz5\/Ms7b26tz9wP55dirHf\/NOv4ZB59J4ICBTfpQbvwdG2jywH1UbfQXYkhyPJSjBxwhiFP\/XnE0NtoP4qA6JBI8rui8W8c0uP+VCUbpQR5LjeO+wOmSvOy3nW2Dl3\/tX+LBz1xv4p9zYVj6j23Yzjs+YearaNP3PT5I\/7svTzU+xQFFAxg1c16kV+f9ySTp87+3h6cXbDeUcGUruCL4WlEeH3TtWK88Vzs+Pn0SmBLDVbThqgywL8QrsX\/9Kiu+5op9fIkMJoDT85J4Pjx8EpDjIF1vEbcH4D8K++Xl4eHl\/esDMP9Nn19V+PXl8e[...]
+2015-06-17 18:07:40.513 Imaginary[28505:370258] ERROR: Plugin 'ImageToLibraryPlugin' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-06-17 18:07:40.519 Imaginary[28505:370258] -[CDVCommandQueue executePending] [Line 159] FAILED pluginJSON = ["ImageToLibraryPlugin1036327040","ImageToLibraryPlugin","saveImage",["data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAA+gAAALuCAYAAAA9jTxNAAAAAXNSR0IArs4c6QAAQABJREFUeAHsvYmS5DiTpBlXZtXsyras7JPse+7j7JONjEz\/VZUZEaOfqikIMjyP+rt7\/suR6QRgMFM7COIg6R6P\/+\/\/9\/+\/Pyi9vztL7vLjw8OjPk3T\/vYg2pTbtPigPz6HrPLbm7gXxtNi3wvvT48P72\/RDR12w6D6UTLvbwf7MqcFyT1JHwL6+F+hzMIBwuPJjvhaxmeJHjqCoTbZxb+Tb4clodu32I\/cE\/Yqgc+\/JtOfY\/MbviouTpJ\/f9cHXpUfpZMU+x4fnp6eHt5eX5euxrLnCt7H56fwTwwkZDnaiL91ifYo2yzfAKsdnEfZ5dy+IDV06pKrrW\/1R6YSL7AeR9c7etBPGhxHQL4+yb49vcVFk8Dg3Dsmojzh\/8iTWwfypUmHfUIX7dt5fbN+bBj+0dO+NdapfRoG8\/3tq\/WAR7yJReP79Ky+hW\/omo\/DYF2Jk68Hoeo0JgYDr8rI5HxwWdiWkaV\/kbCL+EEmJ6acK+ysHZg6PcYSsQUWeGLbshsgBEgqPz5\/Ms7b26tz9wP55dirHf\/NOv4ZB59J4ICBTfpQbvwdG2jywH1UbfQXYkhyPJSjBxwhiFP\/XnE0NtoP4qA6JBI8rui8W8c0uP+VCUbpQR5LjeO+wOmSvOy3nW2Dl3\/tX+LBz1xv4p9zYVj6j23Yzjs+YearaNP3PT5I\/7svTzU+xQFFAxg1c16kV+f9ySTp87+3h6cXbDeUcGUruCL4WlEeH3TtWK88Vzs+Pn0SmBLDVbThqgywL8QrsX\/9Kiu+5op9fIkMJoDT85J4Pjx8EpDjIF1vEbcH4D8K++Xl4eHl\/esDMP9Nn19V+PXl8e[...]
+2015-06-17 18:10:54.060 Imaginary[29064:376286] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Data/Application/EDF63E05-300C-4ED2-A59D-E57D79931CA3/Library/Cookies/Cookies.binarycookies
+2015-06-17 18:10:54.116 Imaginary[29064:376286] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 18:10:54.116 Imaginary[29064:376286] Multi-tasking -> Device: YES, App: YES
+2015-06-17 18:10:54.118 Imaginary[29064:376286] Unlimited access to network resources
+2015-06-17 18:10:54.120 Imaginary[29064:376286] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-17 18:10:54.220 Imaginary[29064:376286] [CDVTimer][statusbar] 27.702987ms
+2015-06-17 18:10:54.223 Imaginary[29064:376286] [CDVTimer][file] 3.261983ms
+2015-06-17 18:10:54.223 Imaginary[29064:376286] [CDVTimer][TotalPluginStartup] 31.379998ms
+2015-06-17 18:10:54.322 Imaginary[29064:376286] Resetting plugins due to page load.
+2015-06-17 18:10:54.490 Imaginary[29064:376286] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Bundle/Application/B6F16C40-B964-41C2-88FA-5EC01CF35BB1/Imaginary.app/www/index.html
+2015-06-17 18:11:15.599 Imaginary[29064:376286] ERROR: Plugin 'ImageToLibraryPlugin' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-06-17 18:11:15.605 Imaginary[29064:376286] -[CDVCommandQueue executePending] [Line 159] FAILED pluginJSON = ["ImageToLibraryPlugin168112086","ImageToLibraryPlugin","saveImage",["data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAA+gAAALuCAYAAAA9jTxNAAAAAXNSR0IArs4c6QAAQABJREFUeAHsvYmS5DiTpBlXZtXsyras7JPse+7j7JONjEz\/VZUZEaOfqikIMjyP+rt7\/suR6QRgMFM7COIg6R6P\/+\/\/9\/+\/Pyi9vztL7vLjw8OjPk3T\/vYg2pTbtPigPz6HrPLbm7gXxtNi3wvvT48P72\/RDR12w6D6UTLvbwf7MqcFyT1JHwL6+F+hzMIBwuPJjvhaxmeJHjqCoTbZxb+Tb4clodu32I\/cE\/Yqgc+\/JtOfY\/MbviouTpJ\/f9cHXpUfpZMU+x4fnp6eHt5eX5euxrLnCt7H56fwTwwkZDnaiL91ifYo2yzfAKsdnEfZ5dy+IDV06pKrrW\/1R6YSL7AeR9c7etBPGhxHQL4+yb49vcVFk8Dg3Dsmojzh\/8iTWwfypUmHfUIX7dt5fbN+bBj+0dO+NdapfRoG8\/3tq\/WAR7yJReP79Ky+hW\/omo\/DYF2Jk68Hoeo0JgYDr8rI5HxwWdiWkaV\/kbCL+EEmJ6acK+ysHZg6PcYSsQUWeGLbshsgBEgqPz5\/Ms7b26tz9wP55dirHf\/NOv4ZB59J4ICBTfpQbvwdG2jywH1UbfQXYkhyPJSjBxwhiFP\/XnE0NtoP4qA6JBI8rui8W8c0uP+VCUbpQR5LjeO+wOmSvOy3nW2Dl3\/tX+LBz1xv4p9zYVj6j23Yzjs+YearaNP3PT5I\/7svTzU+xQFFAxg1c16kV+f9ySTp87+3h6cXbDeUcGUruCL4WlEeH3TtWK88Vzs+Pn0SmBLDVbThqgywL8QrsX\/9Kiu+5op9fIkMJoDT85J4Pjx8EpDjIF1vEbcH4D8K++Xl4eHl\/esDMP9Nn19V+PXl8eE[...]
+2015-06-17 18:11:17.718 Imaginary[29064:376286] ERROR: Plugin 'ImageToLibraryPlugin' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-06-17 18:11:17.725 Imaginary[29064:376286] -[CDVCommandQueue executePending] [Line 159] FAILED pluginJSON = ["ImageToLibraryPlugin168112087","ImageToLibraryPlugin","saveImage",["data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAA+gAAALuCAYAAAA9jTxNAAAAAXNSR0IArs4c6QAAQABJREFUeAHsvYmS5DiTpBlXZtXsyras7JPse+7j7JONjEz\/VZUZEaOfqikIMjyP+rt7\/suR6QRgMFM7COIg6R6P\/+\/\/9\/+\/Pyi9vztL7vLjw8OjPk3T\/vYg2pTbtPigPz6HrPLbm7gXxtNi3wvvT48P72\/RDR12w6D6UTLvbwf7MqcFyT1JHwL6+F+hzMIBwuPJjvhaxmeJHjqCoTbZxb+Tb4clodu32I\/cE\/Yqgc+\/JtOfY\/MbviouTpJ\/f9cHXpUfpZMU+x4fnp6eHt5eX5euxrLnCt7H56fwTwwkZDnaiL91ifYo2yzfAKsdnEfZ5dy+IDV06pKrrW\/1R6YSL7AeR9c7etBPGhxHQL4+yb49vcVFk8Dg3Dsmojzh\/8iTWwfypUmHfUIX7dt5fbN+bBj+0dO+NdapfRoG8\/3tq\/WAR7yJReP79Ky+hW\/omo\/DYF2Jk68Hoeo0JgYDr8rI5HxwWdiWkaV\/kbCL+EEmJ6acK+ysHZg6PcYSsQUWeGLbshsgBEgqPz5\/Ms7b26tz9wP55dirHf\/NOv4ZB59J4ICBTfpQbvwdG2jywH1UbfQXYkhyPJSjBxwhiFP\/XnE0NtoP4qA6JBI8rui8W8c0uP+VCUbpQR5LjeO+wOmSvOy3nW2Dl3\/tX+LBz1xv4p9zYVj6j23Yzjs+YearaNP3PT5I\/7svTzU+xQFFAxg1c16kV+f9ySTp87+3h6cXbDeUcGUruCL4WlEeH3TtWK88Vzs+Pn0SmBLDVbThqgywL8QrsX\/9Kiu+5op9fIkMJoDT85J4Pjx8EpDjIF1vEbcH4D8K++Xl4eHl\/esDMP9Nn19V+PXl8eE[...]
+2015-06-17 18:11:34.555 Imaginary[29064:376286] ERROR: Plugin 'ImageToLibraryPlugin' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-06-17 18:11:34.561 Imaginary[29064:376286] -[CDVCommandQueue executePending] [Line 159] FAILED pluginJSON = ["ImageToLibraryPlugin168112088","ImageToLibraryPlugin","saveImage",["data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAA+gAAALuCAYAAAA9jTxNAAAAAXNSR0IArs4c6QAAQABJREFUeAHsvYmS5DiTpBlXZtXsyras7JPse+7j7JONjEz\/VZUZEaOfqikIMjyP+rt7\/suR6QRgMFM7COIg6R6P\/+\/\/9\/+\/Pyi9vztL7vLjw8OjPk3T\/vYg2pTbtPigPz6HrPLbm7gXxtNi3wvvT48P72\/RDR12w6D6UTLvbwf7MqcFyT1JHwL6+F+hzMIBwuPJjvhaxmeJHjqCoTbZxb+Tb4clodu32I\/cE\/Yqgc+\/JtOfY\/MbviouTpJ\/f9cHXpUfpZMU+x4fnp6eHt5eX5euxrLnCt7H56fwTwwkZDnaiL91ifYo2yzfAKsdnEfZ5dy+IDV06pKrrW\/1R6YSL7AeR9c7etBPGhxHQL4+yb49vcVFk8Dg3Dsmojzh\/8iTWwfypUmHfUIX7dt5fbN+bBj+0dO+NdapfRoG8\/3tq\/WAR7yJReP79Ky+hW\/omo\/DYF2Jk68Hoeo0JgYDr8rI5HxwWdiWkaV\/kbCL+EEmJ6acK+ysHZg6PcYSsQUWeGLbshsgBEgqPz5\/Ms7b26tz9wP55dirHf\/NOv4ZB59J4ICBTfpQbvwdG2jywH1UbfQXYkhyPJSjBxwhiFP\/XnE0NtoP4qA6JBI8rui8W8c0uP+VCUbpQR5LjeO+wOmSvOy3nW2Dl3\/tX+LBz1xv4p9zYVj6j23Yzjs+YearaNP3PT5I\/7svTzU+xQFFAxg1c16kV+f9ySTp87+3h6cXbDeUcGUruCL4WlEeH3TtWK88Vzs+Pn0SmBLDVbThqgywL8QrsX\/9Kiu+5op9fIkMJoDT85J4Pjx8EpDjIF1vEbcH4D8K++Xl4eHl\/esDMP9Nn19V+PXl8eE[...]
+2015-06-17 18:11:35.924 Imaginary[29064:376286] ERROR: Plugin 'ImageToLibraryPlugin' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-06-17 18:11:35.931 Imaginary[29064:376286] -[CDVCommandQueue executePending] [Line 159] FAILED pluginJSON = ["ImageToLibraryPlugin168112089","ImageToLibraryPlugin","saveImage",["data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAA+gAAALuCAYAAAA9jTxNAAAAAXNSR0IArs4c6QAAQABJREFUeAHsvYmS5DiTpBlXZtXsyras7JPse+7j7JONjEz\/VZUZEaOfqikIMjyP+rt7\/suR6QRgMFM7COIg6R6P\/+\/\/9\/+\/Pyi9vztL7vLjw8OjPk3T\/vYg2pTbtPigPz6HrPLbm7gXxtNi3wvvT48P72\/RDR12w6D6UTLvbwf7MqcFyT1JHwL6+F+hzMIBwuPJjvhaxmeJHjqCoTbZxb+Tb4clodu32I\/cE\/Yqgc+\/JtOfY\/MbviouTpJ\/f9cHXpUfpZMU+x4fnp6eHt5eX5euxrLnCt7H56fwTwwkZDnaiL91ifYo2yzfAKsdnEfZ5dy+IDV06pKrrW\/1R6YSL7AeR9c7etBPGhxHQL4+yb49vcVFk8Dg3Dsmojzh\/8iTWwfypUmHfUIX7dt5fbN+bBj+0dO+NdapfRoG8\/3tq\/WAR7yJReP79Ky+hW\/omo\/DYF2Jk68Hoeo0JgYDr8rI5HxwWdiWkaV\/kbCL+EEmJ6acK+ysHZg6PcYSsQUWeGLbshsgBEgqPz5\/Ms7b26tz9wP55dirHf\/NOv4ZB59J4ICBTfpQbvwdG2jywH1UbfQXYkhyPJSjBxwhiFP\/XnE0NtoP4qA6JBI8rui8W8c0uP+VCUbpQR5LjeO+wOmSvOy3nW2Dl3\/tX+LBz1xv4p9zYVj6j23Yzjs+YearaNP3PT5I\/7svTzU+xQFFAxg1c16kV+f9ySTp87+3h6cXbDeUcGUruCL4WlEeH3TtWK88Vzs+Pn0SmBLDVbThqgywL8QrsX\/9Kiu+5op9fIkMJoDT85J4Pjx8EpDjIF1vEbcH4D8K++Xl4eHl\/esDMP9Nn19V+PXl8eE[...]
+2015-06-17 18:11:36.449 Imaginary[29064:376286] ERROR: Plugin 'ImageToLibraryPlugin' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-06-17 18:11:36.455 Imaginary[29064:376286] -[CDVCommandQueue executePending] [Line 159] FAILED pluginJSON = ["ImageToLibraryPlugin168112090","ImageToLibraryPlugin","saveImage",["data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAA+gAAALuCAYAAAA9jTxNAAAAAXNSR0IArs4c6QAAQABJREFUeAHsvYmS5DiTpBlXZtXsyras7JPse+7j7JONjEz\/VZUZEaOfqikIMjyP+rt7\/suR6QRgMFM7COIg6R6P\/+\/\/9\/+\/Pyi9vztL7vLjw8OjPk3T\/vYg2pTbtPigPz6HrPLbm7gXxtNi3wvvT48P72\/RDR12w6D6UTLvbwf7MqcFyT1JHwL6+F+hzMIBwuPJjvhaxmeJHjqCoTbZxb+Tb4clodu32I\/cE\/Yqgc+\/JtOfY\/MbviouTpJ\/f9cHXpUfpZMU+x4fnp6eHt5eX5euxrLnCt7H56fwTwwkZDnaiL91ifYo2yzfAKsdnEfZ5dy+IDV06pKrrW\/1R6YSL7AeR9c7etBPGhxHQL4+yb49vcVFk8Dg3Dsmojzh\/8iTWwfypUmHfUIX7dt5fbN+bBj+0dO+NdapfRoG8\/3tq\/WAR7yJReP79Ky+hW\/omo\/DYF2Jk68Hoeo0JgYDr8rI5HxwWdiWkaV\/kbCL+EEmJ6acK+ysHZg6PcYSsQUWeGLbshsgBEgqPz5\/Ms7b26tz9wP55dirHf\/NOv4ZB59J4ICBTfpQbvwdG2jywH1UbfQXYkhyPJSjBxwhiFP\/XnE0NtoP4qA6JBI8rui8W8c0uP+VCUbpQR5LjeO+wOmSvOy3nW2Dl3\/tX+LBz1xv4p9zYVj6j23Yzjs+YearaNP3PT5I\/7svTzU+xQFFAxg1c16kV+f9ySTp87+3h6cXbDeUcGUruCL4WlEeH3TtWK88Vzs+Pn0SmBLDVbThqgywL8QrsX\/9Kiu+5op9fIkMJoDT85J4Pjx8EpDjIF1vEbcH4D8K++Xl4eHl\/esDMP9Nn19V+PXl8eE[...]
+2015-06-17 18:11:36.709 Imaginary[29064:376286] ERROR: Plugin 'ImageToLibraryPlugin' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-06-17 18:11:36.716 Imaginary[29064:376286] -[CDVCommandQueue executePending] [Line 159] FAILED pluginJSON = ["ImageToLibraryPlugin168112091","ImageToLibraryPlugin","saveImage",["data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAA+gAAALuCAYAAAA9jTxNAAAAAXNSR0IArs4c6QAAQABJREFUeAHsvYmS5DiTpBlXZtXsyras7JPse+7j7JONjEz\/VZUZEaOfqikIMjyP+rt7\/suR6QRgMFM7COIg6R6P\/+\/\/9\/+\/Pyi9vztL7vLjw8OjPk3T\/vYg2pTbtPigPz6HrPLbm7gXxtNi3wvvT48P72\/RDR12w6D6UTLvbwf7MqcFyT1JHwL6+F+hzMIBwuPJjvhaxmeJHjqCoTbZxb+Tb4clodu32I\/cE\/Yqgc+\/JtOfY\/MbviouTpJ\/f9cHXpUfpZMU+x4fnp6eHt5eX5euxrLnCt7H56fwTwwkZDnaiL91ifYo2yzfAKsdnEfZ5dy+IDV06pKrrW\/1R6YSL7AeR9c7etBPGhxHQL4+yb49vcVFk8Dg3Dsmojzh\/8iTWwfypUmHfUIX7dt5fbN+bBj+0dO+NdapfRoG8\/3tq\/WAR7yJReP79Ky+hW\/omo\/DYF2Jk68Hoeo0JgYDr8rI5HxwWdiWkaV\/kbCL+EEmJ6acK+ysHZg6PcYSsQUWeGLbshsgBEgqPz5\/Ms7b26tz9wP55dirHf\/NOv4ZB59J4ICBTfpQbvwdG2jywH1UbfQXYkhyPJSjBxwhiFP\/XnE0NtoP4qA6JBI8rui8W8c0uP+VCUbpQR5LjeO+wOmSvOy3nW2Dl3\/tX+LBz1xv4p9zYVj6j23Yzjs+YearaNP3PT5I\/7svTzU+xQFFAxg1c16kV+f9ySTp87+3h6cXbDeUcGUruCL4WlEeH3TtWK88Vzs+Pn0SmBLDVbThqgywL8QrsX\/9Kiu+5op9fIkMJoDT85J4Pjx8EpDjIF1vEbcH4D8K++Xl4eHl\/esDMP9Nn19V+PXl8eE[...]
+2015-06-17 18:15:40.595 Imaginary[29648:384799] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Data/Application/A9634D6F-44C9-463B-AC7E-77E314CC8FBB/Library/Cookies/Cookies.binarycookies
+2015-06-17 18:15:40.650 Imaginary[29648:384799] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 18:15:40.650 Imaginary[29648:384799] Multi-tasking -> Device: YES, App: YES
+2015-06-17 18:15:40.652 Imaginary[29648:384799] Unlimited access to network resources
+2015-06-17 18:15:40.654 Imaginary[29648:384799] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-17 18:15:40.760 Imaginary[29648:384799] [CDVTimer][statusbar] 27.469993ms
+2015-06-17 18:15:40.763 Imaginary[29648:384799] [CDVTimer][file] 2.471983ms
+2015-06-17 18:15:40.763 Imaginary[29648:384799] [CDVTimer][TotalPluginStartup] 30.322015ms
+2015-06-17 18:15:41.113 Imaginary[29648:384799] Resetting plugins due to page load.
+2015-06-17 18:15:41.261 Imaginary[29648:384799] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Bundle/Application/DFD0F1B0-5C1C-47D1-B704-90CB4D81426F/Imaginary.app/www/index.html
+2015-06-17 18:15:50.087 Imaginary[29648:384799] ERROR: Plugin 'ImageToLibraryPlugin' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-06-17 18:15:50.094 Imaginary[29648:384799] -[CDVCommandQueue executePending] [Line 159] FAILED pluginJSON = ["ImageToLibraryPlugin1332803635","ImageToLibraryPlugin","saveImage",["data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAA+gAAALuCAYAAAA9jTxNAAAAAXNSR0IArs4c6QAAQABJREFUeAHsvYmS5DiTpBlXZtXsyras7JPse+7j7JONjEz\/VZUZEaOfqikIMjyP+rt7\/suR6QRgMFM7COIg6R6P\/+\/\/9\/+\/Pyi9vztL7vLjw8OjPk3T\/vYg2pTbtPigPz6HrPLbm7gXxtNi3wvvT48P72\/RDR12w6D6UTLvbwf7MqcFyT1JHwL6+F+hzMIBwuPJjvhaxmeJHjqCoTbZxb+Tb4clodu32I\/cE\/Yqgc+\/JtOfY\/MbviouTpJ\/f9cHXpUfpZMU+x4fnp6eHt5eX5euxrLnCt7H56fwTwwkZDnaiL91ifYo2yzfAKsdnEfZ5dy+IDV06pKrrW\/1R6YSL7AeR9c7etBPGhxHQL4+yb49vcVFk8Dg3Dsmojzh\/8iTWwfypUmHfUIX7dt5fbN+bBj+0dO+NdapfRoG8\/3tq\/WAR7yJReP79Ky+hW\/omo\/DYF2Jk68Hoeo0JgYDr8rI5HxwWdiWkaV\/kbCL+EEmJ6acK+ysHZg6PcYSsQUWeGLbshsgBEgqPz5\/Ms7b26tz9wP55dirHf\/NOv4ZB59J4ICBTfpQbvwdG2jywH1UbfQXYkhyPJSjBxwhiFP\/XnE0NtoP4qA6JBI8rui8W8c0uP+VCUbpQR5LjeO+wOmSvOy3nW2Dl3\/tX+LBz1xv4p9zYVj6j23Yzjs+YearaNP3PT5I\/7svTzU+xQFFAxg1c16kV+f9ySTp87+3h6cXbDeUcGUruCL4WlEeH3TtWK88Vzs+Pn0SmBLDVbThqgywL8QrsX\/9Kiu+5op9fIkMJoDT85J4Pjx8EpDjIF1vEbcH4D8K++Xl4eHl\/esDMP9Nn19V+PXl8e[...]
+2015-06-17 18:40:52.227 Imaginary[30704:422115] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Data/Application/545A46A8-656B-4161-A610-564ABA7A09CD/Library/Cookies/Cookies.binarycookies
+2015-06-17 18:40:52.306 Imaginary[30704:422115] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 18:40:52.306 Imaginary[30704:422115] Multi-tasking -> Device: YES, App: YES
+2015-06-17 18:40:52.308 Imaginary[30704:422115] Unlimited access to network resources
+2015-06-17 18:40:52.311 Imaginary[30704:422115] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-17 18:40:52.420 Imaginary[30704:422115] [CDVTimer][statusbar] 24.780989ms
+2015-06-17 18:40:52.425 Imaginary[30704:422115] [CDVTimer][file] 4.079998ms
+2015-06-17 18:40:52.425 Imaginary[30704:422115] [CDVTimer][TotalPluginStartup] 29.283941ms
+2015-06-17 18:40:52.503 Imaginary[30704:422115] Resetting plugins due to page load.
+2015-06-17 18:40:52.676 Imaginary[30704:422115] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Bundle/Application/72974089-A226-407D-AB74-AC9AF2E0C31E/Imaginary.app/www/index.html
+2015-06-17 18:40:59.172 Imaginary[30704:422115] ERROR: Plugin 'ImageToLibraryPlugin' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-06-17 18:40:59.178 Imaginary[30704:422115] -[CDVCommandQueue executePending] [Line 159] FAILED pluginJSON = ["ImageToLibraryPlugin1100355174","ImageToLibraryPlugin","saveImage",["data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAA+gAAALuCAYAAAA9jTxNAAAAAXNSR0IArs4c6QAAQABJREFUeAHsvYmS5DiTpBlXZtXsyras7JPse+7j7JONjEz\/VZUZEaOfqikIMjyP+rt7\/suR6QRgMFM7COIg6R6P\/+\/\/9\/+\/Pyi9vztL7vLjw8OjPk3T\/vYg2pTbtPigPz6HrPLbm7gXxtNi3wvvT48P72\/RDR12w6D6UTLvbwf7MqcFyT1JHwL6+F+hzMIBwuPJjvhaxmeJHjqCoTbZxb+Tb4clodu32I\/cE\/Yqgc+\/JtOfY\/MbviouTpJ\/f9cHXpUfpZMU+x4fnp6eHt5eX5euxrLnCt7H56fwTwwkZDnaiL91ifYo2yzfAKsdnEfZ5dy+IDV06pKrrW\/1R6YSL7AeR9c7etBPGhxHQL4+yb49vcVFk8Dg3Dsmojzh\/8iTWwfypUmHfUIX7dt5fbN+bBj+0dO+NdapfRoG8\/3tq\/WAR7yJReP79Ky+hW\/omo\/DYF2Jk68Hoeo0JgYDr8rI5HxwWdiWkaV\/kbCL+EEmJ6acK+ysHZg6PcYSsQUWeGLbshsgBEgqPz5\/Ms7b26tz9wP55dirHf\/NOv4ZB59J4ICBTfpQbvwdG2jywH1UbfQXYkhyPJSjBxwhiFP\/XnE0NtoP4qA6JBI8rui8W8c0uP+VCUbpQR5LjeO+wOmSvOy3nW2Dl3\/tX+LBz1xv4p9zYVj6j23Yzjs+YearaNP3PT5I\/7svTzU+xQFFAxg1c16kV+f9ySTp87+3h6cXbDeUcGUruCL4WlEeH3TtWK88Vzs+Pn0SmBLDVbThqgywL8QrsX\/9Kiu+5op9fIkMJoDT85J4Pjx8EpDjIF1vEbcH4D8K++Xl4eHl\/esDMP9Nn19V+PXl8e[...]
+2015-06-17 18:42:08.246 Imaginary[31381:425973] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Data/Application/CED7F600-4A1E-484F-A9BB-8D0F8AB472B7/Library/Cookies/Cookies.binarycookies
+2015-06-17 18:42:08.304 Imaginary[31381:425973] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 18:42:08.305 Imaginary[31381:425973] Multi-tasking -> Device: YES, App: YES
+2015-06-17 18:42:08.307 Imaginary[31381:425973] Unlimited access to network resources
+2015-06-17 18:42:08.309 Imaginary[31381:425973] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-17 18:42:08.400 Imaginary[31381:425973] [CDVTimer][statusbar] 21.124005ms
+2015-06-17 18:42:08.403 Imaginary[31381:425973] [CDVTimer][file] 3.199995ms
+2015-06-17 18:42:08.403 Imaginary[31381:425973] [CDVTimer][TotalPluginStartup] 24.637043ms
+2015-06-17 18:42:08.496 Imaginary[31381:425973] Resetting plugins due to page load.
+2015-06-17 18:42:08.678 Imaginary[31381:425973] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Bundle/Application/80C14505-4FB5-47C0-BD06-81B29BD79E8B/Imaginary.app/www/index.html
+2015-06-17 18:42:28.223 Imaginary[31381:425973] ERROR: Plugin 'ImageToLibraryPlugin' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-06-17 18:42:28.229 Imaginary[31381:425973] -[CDVCommandQueue executePending] [Line 159] FAILED pluginJSON = ["ImageToLibraryPlugin1673195966","ImageToLibraryPlugin","saveImage",["data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAA+gAAALuCAYAAAA9jTxNAAAAAXNSR0IArs4c6QAAQABJREFUeAHsvYmS5DiTpBlXZtXsyras7JPse+7j7JONjEz\/VZUZEaOfqikIMjyP+rt7\/suR6QRgMFM7COIg6R6P\/+\/\/9\/+\/Pyi9vztL7vLjw8OjPk3T\/vYg2pTbtPigPz6HrPLbm7gXxtNi3wvvT48P72\/RDR12w6D6UTLvbwf7MqcFyT1JHwL6+F+hzMIBwuPJjvhaxmeJHjqCoTbZxb+Tb4clodu32I\/cE\/Yqgc+\/JtOfY\/MbviouTpJ\/f9cHXpUfpZMU+x4fnp6eHt5eX5euxrLnCt7H56fwTwwkZDnaiL91ifYo2yzfAKsdnEfZ5dy+IDV06pKrrW\/1R6YSL7AeR9c7etBPGhxHQL4+yb49vcVFk8Dg3Dsmojzh\/8iTWwfypUmHfUIX7dt5fbN+bBj+0dO+NdapfRoG8\/3tq\/WAR7yJReP79Ky+hW\/omo\/DYF2Jk68Hoeo0JgYDr8rI5HxwWdiWkaV\/kbCL+EEmJ6acK+ysHZg6PcYSsQUWeGLbshsgBEgqPz5\/Ms7b26tz9wP55dirHf\/NOv4ZB59J4ICBTfpQbvwdG2jywH1UbfQXYkhyPJSjBxwhiFP\/XnE0NtoP4qA6JBI8rui8W8c0uP+VCUbpQR5LjeO+wOmSvOy3nW2Dl3\/tX+LBz1xv4p9zYVj6j23Yzjs+YearaNP3PT5I\/7svTzU+xQFFAxg1c16kV+f9ySTp87+3h6cXbDeUcGUruCL4WlEeH3TtWK88Vzs+Pn0SmBLDVbThqgywL8QrsX\/9Kiu+5op9fIkMJoDT85J4Pjx8EpDjIF1vEbcH4D8K++Xl4eHl\/esDMP9Nn19V+PXl8e[...]
+2015-06-17 19:00:19.459 Imaginary[33094:458166] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Data/Application/61DDE4DE-508C-492B-923B-237926802EBB/Library/Cookies/Cookies.binarycookies
+2015-06-17 19:00:19.511 Imaginary[33094:458166] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 19:00:19.511 Imaginary[33094:458166] Multi-tasking -> Device: YES, App: YES
+2015-06-17 19:00:19.513 Imaginary[33094:458166] Unlimited access to network resources
+2015-06-17 19:00:19.516 Imaginary[33094:458166] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-17 19:00:19.614 Imaginary[33094:458166] [CDVTimer][statusbar] 33.603013ms
+2015-06-17 19:00:19.617 Imaginary[33094:458166] [CDVTimer][file] 2.739966ms
+2015-06-17 19:00:19.617 Imaginary[33094:458166] [CDVTimer][imagetolibraryplugin] 0.028014ms
+2015-06-17 19:00:19.617 Imaginary[33094:458166] [CDVTimer][TotalPluginStartup] 36.773026ms
+2015-06-17 19:00:19.679 Imaginary[33094:458166] Resetting plugins due to page load.
+2015-06-17 19:00:19.860 Imaginary[33094:458166] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Bundle/Application/B91129AA-C011-4974-845E-9410493E6813/Imaginary.app/www/index.html
+2015-06-17 19:01:14.761 Imaginary[33094:458166] IS THUMB: NO
+2015-06-17 19:01:14.777 Imaginary[33094:458166] THREAD WARNING: ['ImageToLibraryPlugin'] took '61.164062' ms. Plugin should use a background thread.
+2015-06-17 19:01:15.090 Imaginary[33094:458166] File URL: /Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Data/Application/61DDE4DE-508C-492B-923B-237926802EBB/Documents/temp_image.jpg
+2015-06-17 19:01:22.518 Imaginary[33094:458166] IS THUMB: NO
+2015-06-17 19:01:22.518 Imaginary[33094:458166] THREAD WARNING: ['ImageToLibraryPlugin'] took '45.899902' ms. Plugin should use a background thread.
+2015-06-17 19:01:22.790 Imaginary[33094:458166] File URL: /Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Data/Application/61DDE4DE-508C-492B-923B-237926802EBB/Documents/temp_image.jpg
+2015-06-17 19:01:32.217 Imaginary[33094:458166] IS THUMB: NO
+2015-06-17 19:01:32.217 Imaginary[33094:458166] THREAD WARNING: ['ImageToLibraryPlugin'] took '47.900879' ms. Plugin should use a background thread.
+2015-06-17 19:01:32.474 Imaginary[33094:458166] File URL: /Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Data/Application/61DDE4DE-508C-492B-923B-237926802EBB/Documents/temp_image.jpg
+2015-06-17 20:12:38.183 Imaginary[34046:473298] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Data/Application/5D7807F0-811F-49F7-81F1-8577885BA772/Library/Cookies/Cookies.binarycookies
+2015-06-17 20:12:38.246 Imaginary[34046:473298] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 20:12:38.246 Imaginary[34046:473298] Multi-tasking -> Device: YES, App: YES
+2015-06-17 20:12:38.249 Imaginary[34046:473298] Unlimited access to network resources
+2015-06-17 20:12:38.252 Imaginary[34046:473298] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-17 20:12:38.341 Imaginary[34046:473298] [CDVTimer][statusbar] 19.744992ms
+2015-06-17 20:12:38.344 Imaginary[34046:473298] [CDVTimer][file] 3.266037ms
+2015-06-17 20:12:38.344 Imaginary[34046:473298] [CDVTimer][imagetolibraryplugin] 0.033021ms
+2015-06-17 20:12:38.344 Imaginary[34046:473298] [CDVTimer][TotalPluginStartup] 23.411036ms
+2015-06-17 20:12:38.589 Imaginary[34046:473298] Resetting plugins due to page load.
+2015-06-17 20:12:38.741 Imaginary[34046:473298] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Bundle/Application/F1052C7D-B472-4849-8714-16D4609D9717/Imaginary.app/www/index.html
+2015-06-17 20:12:47.269 Imaginary[34046:473298] IS THUMB: NO
+2015-06-17 20:12:47.281 Imaginary[34046:473298] THREAD WARNING: ['ImageToLibraryPlugin'] took '52.357910' ms. Plugin should use a background thread.
+2015-06-17 20:12:47.538 Imaginary[34046:473298] File URL: /Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Data/Application/5D7807F0-811F-49F7-81F1-8577885BA772/Documents/temp_image.jpg
+2015-06-17 20:13:20.539 Imaginary[34046:473298] IS THUMB: NO
+2015-06-17 20:13:20.539 Imaginary[34046:473298] THREAD WARNING: ['ImageToLibraryPlugin'] took '58.079834' ms. Plugin should use a background thread.
+2015-06-17 20:13:20.821 Imaginary[34046:473298] File URL: /Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Data/Application/5D7807F0-811F-49F7-81F1-8577885BA772/Documents/temp_image.jpg
+2015-06-17 20:36:36.295 Imaginary[35061:488457] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Data/Application/8BB6DF9F-17DF-44C0-A2E8-40F95EBA70A8/Library/Cookies/Cookies.binarycookies
+2015-06-17 20:36:36.357 Imaginary[35061:488457] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 20:36:36.357 Imaginary[35061:488457] Multi-tasking -> Device: YES, App: YES
+2015-06-17 20:36:36.359 Imaginary[35061:488457] Unlimited access to network resources
+2015-06-17 20:36:36.362 Imaginary[35061:488457] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-17 20:36:36.446 Imaginary[35061:488457] [CDVTimer][statusbar] 18.128991ms
+2015-06-17 20:36:36.448 Imaginary[35061:488457] [CDVTimer][file] 2.250969ms
+2015-06-17 20:36:36.448 Imaginary[35061:488457] [CDVTimer][imagetolibraryplugin] 0.059009ms
+2015-06-17 20:36:36.448 Imaginary[35061:488457] [CDVTimer][TotalPluginStartup] 20.899951ms
+2015-06-17 20:36:36.542 Imaginary[35061:488457] Resetting plugins due to page load.
+2015-06-17 20:36:36.704 Imaginary[35061:488457] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Bundle/Application/1932E795-51FD-4D30-A18C-0DF8C054242A/Imaginary.app/www/index.html
+2015-06-17 20:38:58.001 Imaginary[35061:488457] THREAD WARNING: ['File'] took '34.427734' ms. Plugin should use a background thread.
+2015-06-17 20:38:58.035 Imaginary[35061:488457] *** Terminating app due to uncaught exception 'NSRangeException', reason: '*** -[__NSArrayM objectAtIndex:]: index 1 beyond bounds [0 .. 0]'
+*** First throw call stack:
+(
+	0   CoreFoundation                      0x002e8746 __exceptionPreprocess + 182
+	1   libobjc.A.dylib                     0x02881a97 objc_exception_throw + 44
+	2   CoreFoundation                      0x001bcb73 -[__NSArrayM objectAtIndex:] + 243
+	3   Imaginary                           0x000d12ee -[ImageToLibraryPlugin saveImage:] + 302
+	4   Imaginary                           0x000eb018 -[CDVCommandQueue execute:] + 888
+	5   Imaginary                           0x000ea850 -[CDVCommandQueue executePending] + 848
+	6   libobjc.A.dylib                     0x02897771 -[NSObject performSelector:withObject:] + 70
+	7   Foundation                          0x0247e4e8 __NSThreadPerformPerform + 330
+	8   CoreFoundation                      0x0020a06f __CFRUNLOOP_IS_CALLING_OUT_TO_A_SOURCE0_PERFORM_FUNCTION__ + 15
+	9   CoreFoundation                      0x001ffb7d __CFRunLoopDoSources0 + 253
+	10  CoreFoundation                      0x001ff0d8 __CFRunLoopRun + 952
+	11  CoreFoundation                      0x001fea5b CFRunLoopRunSpecific + 443
+	12  CoreFoundation                      0x001fe88b CFRunLoopRunInMode + 123
+	13  GraphicsServices                    0x03e1a2c9 GSEventRunModal + 192
+	14  GraphicsServices                    0x03e1a106 GSEventRun + 104
+	15  UIKit                               0x006a7106 UIApplicationMain + 1526
+	16  Imaginary                           0x000a9b79 main + 89
+	17  libdyld.dylib                       0x02f4fac9 start + 1
+)
+libc++abi.dylib: terminating with uncaught exception of type NSException
+2015-06-17 20:42:10.732 Imaginary[35826:493407] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Data/Application/AA377A14-A271-4CC8-8BD1-94E90FD1CFBA/Library/Cookies/Cookies.binarycookies
+2015-06-17 20:42:10.793 Imaginary[35826:493407] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 20:42:10.793 Imaginary[35826:493407] Multi-tasking -> Device: YES, App: YES
+2015-06-17 20:42:10.795 Imaginary[35826:493407] Unlimited access to network resources
+2015-06-17 20:42:10.797 Imaginary[35826:493407] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-17 20:42:10.881 Imaginary[35826:493407] [CDVTimer][statusbar] 15.707016ms
+2015-06-17 20:42:10.885 Imaginary[35826:493407] [CDVTimer][file] 3.396988ms
+2015-06-17 20:42:10.885 Imaginary[35826:493407] [CDVTimer][imagetolibraryplugin] 0.042021ms
+2015-06-17 20:42:10.885 Imaginary[35826:493407] [CDVTimer][TotalPluginStartup] 19.556999ms
+2015-06-17 20:42:10.974 Imaginary[35826:493407] Resetting plugins due to page load.
+2015-06-17 20:42:11.159 Imaginary[35826:493407] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Bundle/Application/50192035-B3B6-4006-9831-515D86CCAAF1/Imaginary.app/www/index.html
+2015-06-17 20:42:21.479 Imaginary[35826:493407] *** Terminating app due to uncaught exception 'NSRangeException', reason: '*** -[__NSArrayM objectAtIndex:]: index 1 beyond bounds [0 .. 0]'
+*** First throw call stack:
+(
+	0   CoreFoundation                      0x00339746 __exceptionPreprocess + 182
+	1   libobjc.A.dylib                     0x028d2a97 objc_exception_throw + 44
+	2   CoreFoundation                      0x0020db73 -[__NSArrayM objectAtIndex:] + 243
+	3   Imaginary                           0x001222ee -[ImageToLibraryPlugin saveImage:] + 302
+	4   Imaginary                           0x0013c018 -[CDVCommandQueue execute:] + 888
+	5   Imaginary                           0x0013b850 -[CDVCommandQueue executePending] + 848
+	6   libobjc.A.dylib                     0x028e8771 -[NSObject performSelector:withObject:] + 70
+	7   Foundation                          0x024cf4e8 __NSThreadPerformPerform + 330
+	8   CoreFoundation                      0x0025b06f __CFRUNLOOP_IS_CALLING_OUT_TO_A_SOURCE0_PERFORM_FUNCTION__ + 15
+	9   CoreFoundation                      0x00250b7d __CFRunLoopDoSources0 + 253
+	10  CoreFoundation                      0x002500d8 __CFRunLoopRun + 952
+	11  CoreFoundation                      0x0024fa5b CFRunLoopRunSpecific + 443
+	12  CoreFoundation                      0x0024f88b CFRunLoopRunInMode + 123
+	13  GraphicsServices                    0x03e6b2c9 GSEventRunModal + 192
+	14  GraphicsServices                    0x03e6b106 GSEventRun + 104
+	15  UIKit                               0x006f8106 UIApplicationMain + 1526
+	16  Imaginary                           0x000fab79 main + 89
+	17  libdyld.dylib                       0x02fa0ac9 start + 1
+)
+libc++abi.dylib: terminating with uncaught exception of type NSException
+2015-06-17 20:52:11.077 Imaginary[37781:504067] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Data/Application/414C1DD8-C188-48BE-9D17-6624488A8911/Library/Cookies/Cookies.binarycookies
+2015-06-17 20:52:11.166 Imaginary[37781:504067] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 20:52:11.167 Imaginary[37781:504067] Multi-tasking -> Device: YES, App: YES
+2015-06-17 20:52:11.171 Imaginary[37781:504067] Unlimited access to network resources
+2015-06-17 20:52:11.178 Imaginary[37781:504067] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-17 20:52:11.316 Imaginary[37781:504067] [CDVTimer][statusbar] 32.094002ms
+2015-06-17 20:52:11.322 Imaginary[37781:504067] [CDVTimer][file] 5.423963ms
+2015-06-17 20:52:11.322 Imaginary[37781:504067] [CDVTimer][imagetolibraryplugin] 0.073969ms
+2015-06-17 20:52:11.323 Imaginary[37781:504067] [CDVTimer][TotalPluginStartup] 38.371980ms
+2015-06-17 20:52:11.426 Imaginary[37781:504067] Resetting plugins due to page load.
+2015-06-17 20:52:11.683 Imaginary[37781:504067] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Bundle/Application/92A45642-D8FB-4F17-BF48-826BB395A425/Imaginary.app/www/index.html
+2015-06-17 21:33:51.709 Imaginary[37781:504067] *** Terminating app due to uncaught exception 'NSRangeException', reason: '*** -[__NSArrayM objectAtIndex:]: index 1 beyond bounds [0 .. 0]'
+*** First throw call stack:
+(
+	0   CoreFoundation                      0x00309746 __exceptionPreprocess + 182
+	1   libobjc.A.dylib                     0x028a2a97 objc_exception_throw + 44
+	2   CoreFoundation                      0x001ddb73 -[__NSArrayM objectAtIndex:] + 243
+	3   Imaginary                           0x000f22ee -[ImageToLibraryPlugin saveImage:] + 302
+	4   Imaginary                           0x0010c018 -[CDVCommandQueue execute:] + 888
+	5   Imaginary                           0x0010b850 -[CDVCommandQueue executePending] + 848
+	6   libobjc.A.dylib                     0x028b8771 -[NSObject performSelector:withObject:] + 70
+	7   Foundation                          0x0249f4e8 __NSThreadPerformPerform + 330
+	8   CoreFoundation                      0x0022b06f __CFRUNLOOP_IS_CALLING_OUT_TO_A_SOURCE0_PERFORM_FUNCTION__ + 15
+	9   CoreFoundation                      0x00220b7d __CFRunLoopDoSources0 + 253
+	10  CoreFoundation                      0x002200d8 __CFRunLoopRun + 952
+	11  CoreFoundation                      0x0021fa5b CFRunLoopRunSpecific + 443
+	12  CoreFoundation                      0x0021f88b CFRunLoopRunInMode + 123
+	13  GraphicsServices                    0x03e3b2c9 GSEventRunModal + 192
+	14  GraphicsServices                    0x03e3b106 GSEventRun + 104
+	15  UIKit                               0x006c8106 UIApplicationMain + 1526
+	16  Imaginary                           0x000cab79 main + 89
+	17  libdyld.dylib                       0x02f70ac9 start + 1
+)
+libc++abi.dylib: terminating with uncaught exception of type NSException
+2015-06-17 21:35:09.980 Imaginary[38789:523126] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Data/Application/9D2D51B4-B6EB-433D-92BC-24F9344E8D47/Library/Cookies/Cookies.binarycookies
+2015-06-17 21:35:10.057 Imaginary[38789:523126] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 21:35:10.058 Imaginary[38789:523126] Multi-tasking -> Device: YES, App: YES
+2015-06-17 21:35:10.061 Imaginary[38789:523126] Unlimited access to network resources
+2015-06-17 21:35:10.064 Imaginary[38789:523126] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-17 21:35:10.188 Imaginary[38789:523126] [CDVTimer][statusbar] 22.186041ms
+2015-06-17 21:35:10.192 Imaginary[38789:523126] [CDVTimer][file] 4.046977ms
+2015-06-17 21:35:10.192 Imaginary[38789:523126] [CDVTimer][imagetolibraryplugin] 0.054002ms
+2015-06-17 21:35:10.192 Imaginary[38789:523126] [CDVTimer][TotalPluginStartup] 26.754975ms
+2015-06-17 21:35:10.270 Imaginary[38789:523126] Resetting plugins due to page load.
+2015-06-17 21:35:10.489 Imaginary[38789:523126] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Bundle/Application/63940F43-0246-4A25-8323-ABA8C4C2FACF/Imaginary.app/www/index.html
+2015-06-17 21:35:21.812 Imaginary[38789:523126] *** Terminating app due to uncaught exception 'NSRangeException', reason: '*** -[__NSArrayM objectAtIndex:]: index 1 beyond bounds [0 .. 0]'
+*** First throw call stack:
+(
+	0   CoreFoundation                      0x0024e746 __exceptionPreprocess + 182
+	1   libobjc.A.dylib                     0x027e7a97 objc_exception_throw + 44
+	2   CoreFoundation                      0x00122b73 -[__NSArrayM objectAtIndex:] + 243
+	3   Imaginary                           0x000372ee -[ImageToLibraryPlugin saveImage:] + 302
+	4   Imaginary                           0x00051018 -[CDVCommandQueue execute:] + 888
+	5   Imaginary                           0x00050850 -[CDVCommandQueue executePending] + 848
+	6   libobjc.A.dylib                     0x027fd771 -[NSObject performSelector:withObject:] + 70
+	7   Foundation                          0x023e44e8 __NSThreadPerformPerform + 330
+	8   CoreFoundation                      0x0017006f __CFRUNLOOP_IS_CALLING_OUT_TO_A_SOURCE0_PERFORM_FUNCTION__ + 15
+	9   CoreFoundation                      0x00165b7d __CFRunLoopDoSources0 + 253
+	10  CoreFoundation                      0x001650d8 __CFRunLoopRun + 952
+	11  CoreFoundation                      0x00164a5b CFRunLoopRunSpecific + 443
+	12  CoreFoundation                      0x0016488b CFRunLoopRunInMode + 123
+	13  GraphicsServices                    0x03d802c9 GSEventRunModal + 192
+	14  GraphicsServices                    0x03d80106 GSEventRun + 104
+	15  UIKit                               0x0060d106 UIApplicationMain + 1526
+	16  Imaginary                           0x0000fb79 main + 89
+	17  libdyld.dylib                       0x02eb5ac9 start + 1
+)
+libc++abi.dylib: terminating with uncaught exception of type NSException
+2015-06-17 22:15:55.991 Imaginary[39839:542686] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Data/Application/BD02A032-25AE-48BB-9A4E-C6E7E53AFC0C/Library/Cookies/Cookies.binarycookies
+2015-06-17 22:15:56.083 Imaginary[39839:542686] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 22:15:56.084 Imaginary[39839:542686] Multi-tasking -> Device: YES, App: YES
+2015-06-17 22:15:56.086 Imaginary[39839:542686] Unlimited access to network resources
+2015-06-17 22:15:56.090 Imaginary[39839:542686] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-17 22:15:56.204 Imaginary[39839:542686] [CDVTimer][statusbar] 21.754026ms
+2015-06-17 22:15:56.209 Imaginary[39839:542686] [CDVTimer][file] 4.688978ms
+2015-06-17 22:15:56.210 Imaginary[39839:542686] [CDVTimer][imagetolibraryplugin] 0.113010ms
+2015-06-17 22:15:56.210 Imaginary[39839:542686] [CDVTimer][TotalPluginStartup] 27.276993ms
+2015-06-17 22:15:56.302 Imaginary[39839:542686] Resetting plugins due to page load.
+2015-06-17 22:15:56.549 Imaginary[39839:542686] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Bundle/Application/06803707-7125-4C84-8208-E9370F4050BC/Imaginary.app/www/index.html
+2015-06-17 22:16:08.051 Imaginary[39839:542686] *** Terminating app due to uncaught exception 'NSRangeException', reason: '*** -[__NSArrayM objectAtIndex:]: index 1 beyond bounds [0 .. 0]'
+*** First throw call stack:
+(
+	0   CoreFoundation                      0x00336746 __exceptionPreprocess + 182
+	1   libobjc.A.dylib                     0x028cfa97 objc_exception_throw + 44
+	2   CoreFoundation                      0x0020ab73 -[__NSArrayM objectAtIndex:] + 243
+	3   Imaginary                           0x0011f2ee -[ImageToLibraryPlugin saveImage:] + 302
+	4   Imaginary                           0x00139018 -[CDVCommandQueue execute:] + 888
+	5   Imaginary                           0x00138850 -[CDVCommandQueue executePending] + 848
+	6   libobjc.A.dylib                     0x028e5771 -[NSObject performSelector:withObject:] + 70
+	7   Foundation                          0x024cc4e8 __NSThreadPerformPerform + 330
+	8   CoreFoundation                      0x0025806f __CFRUNLOOP_IS_CALLING_OUT_TO_A_SOURCE0_PERFORM_FUNCTION__ + 15
+	9   CoreFoundation                      0x0024db7d __CFRunLoopDoSources0 + 253
+	10  CoreFoundation                      0x0024d0d8 __CFRunLoopRun + 952
+	11  CoreFoundation                      0x0024ca5b CFRunLoopRunSpecific + 443
+	12  CoreFoundation                      0x0024c88b CFRunLoopRunInMode + 123
+	13  GraphicsServices                    0x03e682c9 GSEventRunModal + 192
+	14  GraphicsServices                    0x03e68106 GSEventRun + 104
+	15  UIKit                               0x006f5106 UIApplicationMain + 1526
+	16  Imaginary                           0x000f7b79 main + 89
+	17  libdyld.dylib                       0x02f9dac9 start + 1
+)
+libc++abi.dylib: terminating with uncaught exception of type NSException
+2015-06-17 22:17:36.180 Imaginary[40383:544890] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Data/Application/81BE1CC2-FF7D-46D1-A6FD-01C5B43C01EA/Library/Cookies/Cookies.binarycookies
+2015-06-17 22:17:36.349 Imaginary[40383:544890] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 22:17:36.350 Imaginary[40383:544890] Multi-tasking -> Device: YES, App: YES
+2015-06-17 22:17:36.353 Imaginary[40383:544890] Unlimited access to network resources
+2015-06-17 22:17:36.360 Imaginary[40383:544890] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-17 22:17:36.648 Imaginary[40383:544890] [CDVTimer][statusbar] 52.847028ms
+2015-06-17 22:17:36.657 Imaginary[40383:544890] [CDVTimer][file] 8.756042ms
+2015-06-17 22:17:36.658 Imaginary[40383:544890] [CDVTimer][imagetolibraryplugin] 0.135005ms
+2015-06-17 22:17:36.658 Imaginary[40383:544890] [CDVTimer][TotalPluginStartup] 63.080013ms
+2015-06-17 22:17:36.990 Imaginary[40383:544890] Resetting plugins due to page load.
+2015-06-17 22:17:37.682 Imaginary[40383:544890] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Bundle/Application/ACE2BFBF-630D-4FF3-9F3A-75AA27A936ED/Imaginary.app/www/index.html
+2015-06-17 22:18:27.776 Imaginary[40383:544890] IS THUMB: NO
+2015-06-17 22:18:27.797 Imaginary[40383:544890] THREAD WARNING: ['ImageToLibraryPlugin'] took '61.784180' ms. Plugin should use a background thread.
+2015-06-17 22:18:28.123 Imaginary[40383:544890] File URL: /Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Data/Application/81BE1CC2-FF7D-46D1-A6FD-01C5B43C01EA/Documents/temp_image.jpg
+2015-06-17 22:19:23.209 Imaginary[40991:547343] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Data/Application/B6E08C5B-12BB-4634-84A8-AFB526F1BC04/Library/Cookies/Cookies.binarycookies
+2015-06-17 22:19:23.313 Imaginary[40991:547343] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 22:19:23.314 Imaginary[40991:547343] Multi-tasking -> Device: YES, App: YES
+2015-06-17 22:19:23.316 Imaginary[40991:547343] Unlimited access to network resources
+2015-06-17 22:19:23.319 Imaginary[40991:547343] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-17 22:19:23.415 Imaginary[40991:547343] [CDVTimer][statusbar] 17.448008ms
+2015-06-17 22:19:23.418 Imaginary[40991:547343] [CDVTimer][file] 2.247036ms
+2015-06-17 22:19:23.418 Imaginary[40991:547343] [CDVTimer][imagetolibraryplugin] 0.041008ms
+2015-06-17 22:19:23.418 Imaginary[40991:547343] [CDVTimer][TotalPluginStartup] 20.152986ms
+2015-06-17 22:19:23.532 Imaginary[40991:547343] Resetting plugins due to page load.
+2015-06-17 22:19:23.753 Imaginary[40991:547343] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Bundle/Application/09F0FACE-50CF-4FD7-A1CF-D9E9C42514B0/Imaginary.app/www/index.html
+2015-06-17 22:52:54.067 Imaginary[40991:547343] IS THUMB: NO
+2015-06-17 22:52:54.086 Imaginary[40991:547343] THREAD WARNING: ['ImageToLibraryPlugin'] took '91.211914' ms. Plugin should use a background thread.
+2015-06-17 22:52:54.401 Imaginary[40991:547343] File URL: /Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Data/Application/B6E08C5B-12BB-4634-84A8-AFB526F1BC04/Documents/temp_image.jpg
+2015-06-17 22:52:54.606 Imaginary[40991:547343] THREAD WARNING: ['File'] took '15.722168' ms. Plugin should use a background thread.
+2015-06-17 22:53:21.607 Imaginary[40991:547343] IS THUMB: NO
+2015-06-17 22:53:21.607 Imaginary[40991:547343] THREAD WARNING: ['ImageToLibraryPlugin'] took '24.249268' ms. Plugin should use a background thread.
+2015-06-17 22:53:21.784 Imaginary[40991:547343] File URL: /Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Data/Application/B6E08C5B-12BB-4634-84A8-AFB526F1BC04/Documents/temp_image.jpg
+2015-06-17 22:55:20.435 Imaginary[41914:564788] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Data/Application/4737BB22-4D3E-40BE-95A2-2A71868D4188/Library/Cookies/Cookies.binarycookies
+2015-06-17 22:55:20.547 Imaginary[41914:564788] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 22:55:20.547 Imaginary[41914:564788] Multi-tasking -> Device: YES, App: YES
+2015-06-17 22:55:20.549 Imaginary[41914:564788] Unlimited access to network resources
+2015-06-17 22:55:20.551 Imaginary[41914:564788] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-17 22:55:20.638 Imaginary[41914:564788] [CDVTimer][statusbar] 15.646994ms
+2015-06-17 22:55:20.640 Imaginary[41914:564788] [CDVTimer][file] 1.892030ms
+2015-06-17 22:55:20.640 Imaginary[41914:564788] [CDVTimer][imagetolibraryplugin] 0.028968ms
+2015-06-17 22:55:20.640 Imaginary[41914:564788] [CDVTimer][TotalPluginStartup] 17.995954ms
+2015-06-17 22:55:20.774 Imaginary[41914:564788] Resetting plugins due to page load.
+2015-06-17 22:55:20.950 Imaginary[41914:564788] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Bundle/Application/A5E706AC-F29D-443F-8330-85812A87CE40/Imaginary.app/www/index.html
+2015-06-17 22:55:29.224 Imaginary[41914:564788] IS THUMB: NO
+2015-06-17 22:55:29.331 Imaginary[41914:564788] File URL: /Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Data/Application/4737BB22-4D3E-40BE-95A2-2A71868D4188/Documents/temp_image.jpg
+2015-06-17 22:56:32.971 Imaginary[42450:566421] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Data/Application/1E386B7B-A733-496C-BCE2-3D6E7DE161BF/Library/Cookies/Cookies.binarycookies
+2015-06-17 22:56:33.123 Imaginary[42450:566421] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 22:56:33.123 Imaginary[42450:566421] Multi-tasking -> Device: YES, App: YES
+2015-06-17 22:56:33.139 Imaginary[42450:566421] Unlimited access to network resources
+2015-06-17 22:56:33.142 Imaginary[42450:566421] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-17 22:56:33.273 Imaginary[42450:566421] [CDVTimer][statusbar] 28.607011ms
+2015-06-17 22:56:33.281 Imaginary[42450:566421] [CDVTimer][file] 8.413017ms
+2015-06-17 22:56:33.281 Imaginary[42450:566421] [CDVTimer][imagetolibraryplugin] 0.048995ms
+2015-06-17 22:56:33.282 Imaginary[42450:566421] [CDVTimer][TotalPluginStartup] 37.563980ms
+2015-06-17 22:56:33.360 Imaginary[42450:566421] Resetting plugins due to page load.
+2015-06-17 22:56:33.603 Imaginary[42450:566421] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Bundle/Application/6C2FAFBA-4B9C-43F1-81F8-C3DF419D56B3/Imaginary.app/www/index.html
+2015-06-17 22:56:33.772 Imaginary[42450:566421] THREAD WARNING: ['File'] took '11.884033' ms. Plugin should use a background thread.
+2015-06-17 22:57:16.325 Imaginary[42450:566421] IS THUMB: NO
+2015-06-17 22:57:16.330 Imaginary[42450:566421] THREAD WARNING: ['ImageToLibraryPlugin'] took '18.439209' ms. Plugin should use a background thread.
+2015-06-17 22:57:16.490 Imaginary[42450:566421] File URL: /Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Data/Application/1E386B7B-A733-496C-BCE2-3D6E7DE161BF/Documents/temp_image.jpg
+2015-06-17 22:57:16.539 Imaginary[42450:566421] THREAD WARNING: ['File'] took '10.923096' ms. Plugin should use a background thread.
+2015-06-17 22:58:46.143 Imaginary[42987:568693] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Data/Application/ED294C70-7312-4EAB-99E0-627BC19492D2/Library/Cookies/Cookies.binarycookies
+2015-06-17 22:58:46.279 Imaginary[42987:568693] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 22:58:46.279 Imaginary[42987:568693] Multi-tasking -> Device: YES, App: YES
+2015-06-17 22:58:46.282 Imaginary[42987:568693] Unlimited access to network resources
+2015-06-17 22:58:46.286 Imaginary[42987:568693] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-17 22:58:46.383 Imaginary[42987:568693] [CDVTimer][statusbar] 17.904997ms
+2015-06-17 22:58:46.386 Imaginary[42987:568693] [CDVTimer][file] 2.911031ms
+2015-06-17 22:58:46.386 Imaginary[42987:568693] [CDVTimer][imagetolibraryplugin] 0.088990ms
+2015-06-17 22:58:46.386 Imaginary[42987:568693] [CDVTimer][TotalPluginStartup] 21.485031ms
+2015-06-17 22:58:46.569 Imaginary[42987:568693] Resetting plugins due to page load.
+2015-06-17 22:58:46.738 Imaginary[42987:568693] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Bundle/Application/9F3AB6A1-30DC-49F4-A6EC-18C97B928E4D/Imaginary.app/www/index.html
+2015-06-17 22:58:58.953 Imaginary[42987:568693] IS THUMB: NO
+2015-06-17 22:58:58.959 Imaginary[42987:568693] THREAD WARNING: ['ImageToLibraryPlugin'] took '46.483154' ms. Plugin should use a background thread.
+2015-06-17 22:58:59.221 Imaginary[42987:568693] File URL: /Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Data/Application/ED294C70-7312-4EAB-99E0-627BC19492D2/Documents/temp_image.jpg
+2015-06-17 22:58:59.367 Imaginary[42987:568693] THREAD WARNING: ['File'] took '15.107910' ms. Plugin should use a background thread.
+2015-06-17 23:01:20.915 Imaginary[43526:571115] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Data/Application/F8B384E9-B68E-4FEB-82A4-DF7E58D524D4/Library/Cookies/Cookies.binarycookies
+2015-06-17 23:01:20.976 Imaginary[43526:571115] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 23:01:20.976 Imaginary[43526:571115] Multi-tasking -> Device: YES, App: YES
+2015-06-17 23:01:20.979 Imaginary[43526:571115] Unlimited access to network resources
+2015-06-17 23:01:20.982 Imaginary[43526:571115] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-17 23:01:21.075 Imaginary[43526:571115] [CDVTimer][statusbar] 17.234981ms
+2015-06-17 23:01:21.078 Imaginary[43526:571115] [CDVTimer][file] 2.767026ms
+2015-06-17 23:01:21.078 Imaginary[43526:571115] [CDVTimer][imagetolibraryplugin] 0.039995ms
+2015-06-17 23:01:21.078 Imaginary[43526:571115] [CDVTimer][TotalPluginStartup] 20.453990ms
+2015-06-17 23:01:21.127 Imaginary[43526:571115] Resetting plugins due to page load.
+2015-06-17 23:01:21.276 Imaginary[43526:571115] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Bundle/Application/7E8D5DFD-8384-466B-963E-1A5F3597B87F/Imaginary.app/www/index.html
+2015-06-17 23:01:50.018 Imaginary[43526:571115] THREAD WARNING: ['ImageToLibraryPlugin'] took '52.471191' ms. Plugin should use a background thread.
+2015-06-17 23:01:50.312 Imaginary[43526:571115] File URL: /Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Data/Application/F8B384E9-B68E-4FEB-82A4-DF7E58D524D4/Documents/temp_image.jpg
+2015-06-17 23:01:50.468 Imaginary[43526:571115] THREAD WARNING: ['File'] took '12.197021' ms. Plugin should use a background thread.
+2015-06-17 23:08:41.318 Imaginary[45209:577842] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Data/Application/35F02B5C-B437-49B0-9E2B-EC8C87C63979/Library/Cookies/Cookies.binarycookies
+2015-06-17 23:08:41.445 Imaginary[45209:577842] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 23:08:41.446 Imaginary[45209:577842] Multi-tasking -> Device: YES, App: YES
+2015-06-17 23:08:41.448 Imaginary[45209:577842] Unlimited access to network resources
+2015-06-17 23:08:41.450 Imaginary[45209:577842] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-17 23:08:41.559 Imaginary[45209:577842] [CDVTimer][statusbar] 23.173988ms
+2015-06-17 23:08:41.563 Imaginary[45209:577842] [CDVTimer][file] 3.607988ms
+2015-06-17 23:08:41.563 Imaginary[45209:577842] [CDVTimer][imagetolibraryplugin] 0.037968ms
+2015-06-17 23:08:41.563 Imaginary[45209:577842] [CDVTimer][TotalPluginStartup] 27.321994ms
+2015-06-17 23:08:41.606 Imaginary[45209:577842] Resetting plugins due to page load.
+2015-06-17 23:08:41.740 Imaginary[45209:577842] Finished load of: file:///Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Bundle/Application/BD39B692-228E-43C7-B2F6-A06B3F842521/Imaginary.app/www/index.html
+2015-06-17 23:08:52.337 Imaginary[45209:577842] THREAD WARNING: ['ImageToLibraryPlugin'] took '61.663818' ms. Plugin should use a background thread.
+2015-06-17 23:08:52.610 Imaginary[45209:577842] File URL: /Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Data/Application/35F02B5C-B437-49B0-9E2B-EC8C87C63979/Documents/temp_image.jpg
+2015-06-17 23:08:52.737 Imaginary[45209:577842] THREAD WARNING: ['File'] took '13.030029' ms. Plugin should use a background thread.
+2015-06-17 23:09:05.048 Imaginary[45209:577842] THREAD WARNING: ['ImageToLibraryPlugin'] took '64.628174' ms. Plugin should use a background thread.
+2015-06-17 23:09:05.336 Imaginary[45209:577842] File URL: /Users/cybind/Library/Developer/CoreSimulator/Devices/510E4AC1-E317-4957-AD78-9233888015CC/data/Containers/Data/Application/35F02B5C-B437-49B0-9E2B-EC8C87C63979/Documents/temp_image.jpg
+2015-06-17 23:09:05.510 Imaginary[45209:577842] THREAD WARNING: ['File'] took '12.183838' ms. Plugin should use a background thread.

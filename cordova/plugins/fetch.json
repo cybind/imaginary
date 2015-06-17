@@ -1,0 +1,43 @@
+{
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "org.apache.cordova.statusbar": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.statusbar"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "org.apache.cordova.camera": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.camera"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "org.apache.cordova.file": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.file"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "com.cybind.imaginary.imagetolibrary": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/cybind/cordova-pugin-imagetolibrary.git",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
