@@ -30,6 +30,9 @@
 
 #import <Cordova/CDVPlugin.h>
 
+#import <Fabric/Fabric.h>
+#import <Crashlytics/Crashlytics.h>
+
 @implementation AppDelegate
 
 @synthesize window, viewController;
@@ -63,6 +66,8 @@
  */
 - (BOOL)application:(UIApplication*)application didFinishLaunchingWithOptions:(NSDictionary*)launchOptions
 {
+    [Fabric with:@[CrashlyticsKit]];
+
     CGRect screenBounds = [[UIScreen mainScreen] bounds];
 
 #if __has_feature(objc_arc)

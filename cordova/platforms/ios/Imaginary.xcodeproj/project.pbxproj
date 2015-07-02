@@ -5,6 +5,7 @@
 	};
 	objectVersion = 46;
 	objects = {
+
 /* Begin PBXBuildFile section */
 		0D01D8E1DF994C45BD53B93B /* ImageIO.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FCD7B30E2B3C4CDB9B92B0FC /* ImageIO.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		1D3623260D0F684500981E51 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* AppDelegate.m */; };
@@ -43,12 +44,18 @@
 		7E7966E51810823500FA85AD /* icon-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E7966DB1810823500FA85AD /* icon-76@2x.png */; };
 		7E7966E61810823500FA85AD /* icon-small.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E7966DC1810823500FA85AD /* icon-small.png */; };
 		7E7966E71810823500FA85AD /* icon-small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E7966DD1810823500FA85AD /* icon-small@2x.png */; };
+		926C3C33ACD04BE6B37B48FE /* ImageToLibraryPlugin.m in Sources */ = {isa = PBXBuildFile; fileRef = 6B1941F087254FFB82BD8118 /* ImageToLibraryPlugin.m */; };
 		9E739C18E4254C41979DD188 /* CDVStatusBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 46774F2EF62E4A9BB1FAC9BC /* CDVStatusBar.m */; };
 		A774EBFD43F541B4A04C92B3 /* CDVFile.m in Sources */ = {isa = PBXBuildFile; fileRef = EB7937086A564E989EB50958 /* CDVFile.m */; };
 		CB15890C3BA344938AB358AC /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7E99A38E5C3C4C028AB99531 /* CoreLocation.framework */; };
 		D4A0D8761607E02300AEF8BB /* Default-568h@2x~iphone.png in Resources */ = {isa = PBXBuildFile; fileRef = D4A0D8751607E02300AEF8BB /* Default-568h@2x~iphone.png */; };
+		D7A3CFB81B4484840026F92D /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D7A3CFB21B4484840026F92D /* Security.framework */; };
+		D7A3CFB91B4484840026F92D /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D7A3CFB31B4484840026F92D /* SystemConfiguration.framework */; };
+		D7A3CFBA1B4484840026F92D /* libc++.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = D7A3CFB41B4484840026F92D /* libc++.dylib */; };
+		D7A3CFBB1B4484840026F92D /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = D7A3CFB51B4484840026F92D /* libz.dylib */; };
+		D7A3CFBC1B4484840026F92D /* Fabric.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D7A3CFB61B4484840026F92D /* Fabric.framework */; };
+		D7A3CFBD1B4484840026F92D /* Crashlytics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D7A3CFB71B4484840026F92D /* Crashlytics.framework */; };
 		DD248E9FBBA6409CAEF27B58 /* CDVAssetLibraryFilesystem.m in Sources */ = {isa = PBXBuildFile; fileRef = 47B955E7505D456383A754CA /* CDVAssetLibraryFilesystem.m */; };
-		9895E4BD21BF43999D330280 /* ImageToLibraryPlugin.m in Sources */ = {isa = PBXBuildFile; fileRef = F4B12F27867B469EA66C4EBA /* ImageToLibraryPlugin.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -104,6 +111,8 @@
 		518EA9D418FB41E99277AD01 /* CDVCamera.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CDVCamera.h; path = org.apache.cordova.camera/CDVCamera.h; sourceTree = "<group>"; };
 		5A7F70FA145248F0B7901607 /* CDVAssetLibraryFilesystem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CDVAssetLibraryFilesystem.h; path = org.apache.cordova.file/CDVAssetLibraryFilesystem.h; sourceTree = "<group>"; };
 		5B1594DC16A7569C00FEF299 /* AssetsLibrary.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AssetsLibrary.framework; path = System/Library/Frameworks/AssetsLibrary.framework; sourceTree = SDKROOT; };
+		5DB75FBAAAE2422ABF7B978E /* ImageToLibraryPlugin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ImageToLibraryPlugin.h; path = com.cybind.imaginary.imagetolibrary/ImageToLibraryPlugin.h; sourceTree = "<group>"; };
+		6B1941F087254FFB82BD8118 /* ImageToLibraryPlugin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ImageToLibraryPlugin.m; path = com.cybind.imaginary.imagetolibrary/ImageToLibraryPlugin.m; sourceTree = "<group>"; };
 		6D38CCDAE59A4D628B5D2617 /* CDVExif.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CDVExif.h; path = org.apache.cordova.camera/CDVExif.h; sourceTree = "<group>"; };
 		792E77E3D62B45C7B2082AA2 /* CDVFile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CDVFile.h; path = org.apache.cordova.file/CDVFile.h; sourceTree = "<group>"; };
 		7E7966D41810823500FA85AD /* icon-40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-40.png"; sourceTree = "<group>"; };
@@ -122,6 +131,12 @@
 		9128F8B8A49F4FF891009F0F /* UIImage+CropScaleOrientation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIImage+CropScaleOrientation.m"; path = "org.apache.cordova.camera/UIImage+CropScaleOrientation.m"; sourceTree = "<group>"; };
 		B79BA40CA1494F56827376B0 /* CDVJpegHeaderWriter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CDVJpegHeaderWriter.m; path = org.apache.cordova.camera/CDVJpegHeaderWriter.m; sourceTree = "<group>"; };
 		D4A0D8751607E02300AEF8BB /* Default-568h@2x~iphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x~iphone.png"; sourceTree = "<group>"; };
+		D7A3CFB21B4484840026F92D /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		D7A3CFB31B4484840026F92D /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		D7A3CFB41B4484840026F92D /* libc++.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libc++.dylib"; path = "usr/lib/libc++.dylib"; sourceTree = SDKROOT; };
+		D7A3CFB51B4484840026F92D /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
+		D7A3CFB61B4484840026F92D /* Fabric.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Fabric.framework; sourceTree = "<group>"; };
+		D7A3CFB71B4484840026F92D /* Crashlytics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Crashlytics.framework; sourceTree = "<group>"; };
 		E4CB926081D14170962CD780 /* UIImage+CropScaleOrientation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIImage+CropScaleOrientation.h"; path = "org.apache.cordova.camera/UIImage+CropScaleOrientation.h"; sourceTree = "<group>"; };
 		EB7937086A564E989EB50958 /* CDVFile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CDVFile.m; path = org.apache.cordova.file/CDVFile.m; sourceTree = "<group>"; };
 		EB87FDF21871DA7A0020F90C /* merges */ = {isa = PBXFileReference; lastKnownFileType = folder; name = merges; path = ../../merges; sourceTree = "<group>"; };
@@ -129,8 +144,6 @@
 		EB87FDF41871DAF40020F90C /* config.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = config.xml; path = ../../config.xml; sourceTree = "<group>"; };
 		F840E1F0165FE0F500CFE078 /* config.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = config.xml; path = Imaginary/config.xml; sourceTree = "<group>"; };
 		FCD7B30E2B3C4CDB9B92B0FC /* ImageIO.framework */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = wrapper.framework; name = ImageIO.framework; path = System/Library/Frameworks/ImageIO.framework; sourceTree = SDKROOT; };
-		F4B12F27867B469EA66C4EBA /* ImageToLibraryPlugin.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "ImageToLibraryPlugin.m"; path = "com.cybind.imaginary.imagetolibrary/ImageToLibraryPlugin.m"; sourceTree = "<group>"; fileEncoding = 4; };
-		4583D2FAC4CF4459BCDD5825 /* ImageToLibraryPlugin.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "ImageToLibraryPlugin.h"; path = "com.cybind.imaginary.imagetolibrary/ImageToLibraryPlugin.h"; sourceTree = "<group>"; fileEncoding = 4; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -139,11 +152,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				5B1594DD16A7569C00FEF299 /* AssetsLibrary.framework in Frameworks */,
+				D7A3CFBB1B4484840026F92D /* libz.dylib in Frameworks */,
 				301BF552109A68D80062928A /* libCordova.a in Frameworks */,
 				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
 				305D5FD1115AB8F900A74A75 /* MobileCoreServices.framework in Frameworks */,
+				D7A3CFBA1B4484840026F92D /* libc++.dylib in Frameworks */,
+				D7A3CFB81B4484840026F92D /* Security.framework in Frameworks */,
 				0D01D8E1DF994C45BD53B93B /* ImageIO.framework in Frameworks */,
+				D7A3CFB91B4484840026F92D /* SystemConfiguration.framework in Frameworks */,
 				CB15890C3BA344938AB358AC /* CoreLocation.framework in Frameworks */,
+				D7A3CFBD1B4484840026F92D /* Crashlytics.framework in Frameworks */,
+				D7A3CFBC1B4484840026F92D /* Fabric.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -185,6 +204,12 @@
 				29B97317FDCFA39411CA2CEA /* Resources */,
 				29B97323FDCFA39411CA2CEA /* Frameworks */,
 				19C28FACFE9D520D11CA2CBB /* Products */,
+				D7A3CFB21B4484840026F92D /* Security.framework */,
+				D7A3CFB31B4484840026F92D /* SystemConfiguration.framework */,
+				D7A3CFB41B4484840026F92D /* libc++.dylib */,
+				D7A3CFB51B4484840026F92D /* libz.dylib */,
+				D7A3CFB61B4484840026F92D /* Fabric.framework */,
+				D7A3CFB71B4484840026F92D /* Crashlytics.framework */,
 			);
 			name = CustomTemplate;
 			sourceTree = "<group>";
@@ -248,8 +273,8 @@
 				792E77E3D62B45C7B2082AA2 /* CDVFile.h */,
 				48CFBE48DC194845BCA316CA /* CDVLocalFilesystem.h */,
 				5A7F70FA145248F0B7901607 /* CDVAssetLibraryFilesystem.h */,
-				F4B12F27867B469EA66C4EBA /* ImageToLibraryPlugin.m */,
-				4583D2FAC4CF4459BCDD5825 /* ImageToLibraryPlugin.h */,
+				6B1941F087254FFB82BD8118 /* ImageToLibraryPlugin.m */,
+				5DB75FBAAAE2422ABF7B978E /* ImageToLibraryPlugin.h */,
 			);
 			name = Plugins;
 			path = Imaginary/Plugins;
@@ -314,6 +339,7 @@
 				1D60588D0D05DD3D006BFB54 /* Resources */,
 				1D60588E0D05DD3D006BFB54 /* Sources */,
 				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+				D7A3CFB11B44835A0026F92D /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -424,6 +450,19 @@
 			shellScript = "cordova/lib/copy-www-build-step.sh";
 			showEnvVarsInLog = 0;
 		};
+		D7A3CFB11B44835A0026F92D /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "./Fabric.framework/run 544ed86f18821c67c328c6804edfb0fd2a560d65 242c6eb7825bf40e862f90fca9bd68f4cb8779bbeeff493a3e917d2d0b2569cd";
+		};
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -441,7 +480,7 @@
 				A774EBFD43F541B4A04C92B3 /* CDVFile.m in Sources */,
 				6BE5034D0C154C269F631DDB /* CDVLocalFilesystem.m in Sources */,
 				DD248E9FBBA6409CAEF27B58 /* CDVAssetLibraryFilesystem.m in Sources */,
-				9895E4BD21BF43999D330280 /* ImageToLibraryPlugin.m in Sources */,
+				926C3C33ACD04BE6B37B48FE /* ImageToLibraryPlugin.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -462,6 +501,10 @@
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ENABLE_OBJC_ARC = YES;
 				COPY_PHASE_STRIP = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -493,6 +536,10 @@
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ENABLE_OBJC_ARC = YES;
 				COPY_PHASE_STRIP = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Imaginary/Imaginary-Prefix.pch";
 				GCC_THUMB_SUPPORT = NO;

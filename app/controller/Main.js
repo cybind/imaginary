@@ -3,10 +3,6 @@ Ext.define('Imaginary.controller.Main', {
     config: {
         refs: {
             takePhotoBtn: '#takePhotoBtn',
-            mapPlaces: '#mapPlaces',
-            loginBtn: '#loginBtn',
-            logoutBtn: '#logoutBtn',
-            progressLabel: '#progressLabel',
             photoContainer: '#photos'
         },
         control: {
@@ -17,7 +13,6 @@ Ext.define('Imaginary.controller.Main', {
     },
 
     originalImageUri: null,
-    thumb: null,
 
     getPhoto: function() {
         var self = this;
@@ -86,7 +81,7 @@ Ext.define('Imaginary.controller.Main', {
                 var data = oc.toDataURL();
                 if (callback) callback(data);
             }, function(p) {
-                // progress.style.height = (p * 100) + "%";
+                // display progress here;
             });
 
         };
@@ -107,7 +102,7 @@ Ext.define('Imaginary.controller.Main', {
 
         var effectsContainer = Ext.getCmp('effectsContainer');
 
-        self.resizeImage(imageURI, function(thumbData, canvas, context) {
+        self.resizeImage(imageURI, function(thumbData) {
 
             effects.forEach(function(item) {
 
@@ -127,7 +122,7 @@ Ext.define('Imaginary.controller.Main', {
 
                     popup.setMasked({ xclass: 'Imaginary.LoadMask' });
                     self.applyEffect(effects[index].data, self.originalImageUri, function(imageDataFiltered) {
-                        Ext.getCmp('photoPreview').setSrc(imageDataFiltered);
+                        self.setPreviewImage(imageDataFiltered);
                         popup.setMasked(false);
                     });
 
@@ -166,10 +161,6 @@ Ext.define('Imaginary.controller.Main', {
             var filteredImageURI = Ext.getCmp('photoPreview').getSrc();
             self.savePhoto(filteredImageURI, function() {
                 popup.hide();
-
-                var pictureStore = Ext.getStore('Pictures');
-                var data = pictureStore.getData();
-
             });
         });
 
@@ -200,7 +191,7 @@ Ext.define('Imaginary.controller.Main', {
             oc.height = newHeight;
             octx.drawImage(img, 0, 0, newWidth, newHeight);
 
-            if (callback) callback(oc.toDataURL(), oc, octx);
+            if (callback) callback(oc.toDataURL());
         };
 
         img.src = imageURI;
@@ -209,7 +200,7 @@ Ext.define('Imaginary.controller.Main', {
     copyPhotoToPersistentStore: function(fileURI, callback) {
         var self = this;
 
-        self.saveToLibrary(fileURI, false, function(imageUrl) {
+        self.saveToLibrary(fileURI, function(imageUrl) {
             console.log('Saved image to the library: ' + imageUrl);
             var d = new Date();
             var n = d.getTime();
@@ -269,9 +260,9 @@ Ext.define('Imaginary.controller.Main', {
 
     },
 
-    saveToLibrary: function(base64Data, isThumbnail, callback) {
+    saveToLibrary: function(base64Data, callback) {
 
-        window.ImageToLibraryPlugin.saveToLibrary([base64Data, isThumbnail], function(imageUrl) {
+        window.ImageToLibraryPlugin.saveToLibrary([base64Data], function(imageUrl) {
             if (callback) callback(imageUrl, null);
         }, function(error) {
             if (callback) callback();

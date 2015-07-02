@@ -33,7 +33,6 @@ Ext.define('Imaginary.controller.Pictures', {
             src: picture.get('url'),
             height: 80,
             width: '20%',
-            // margin: '2 2 2 2',
             border: 3,
             style: 'float: left; border-color: white; border-style: solid;'
         });
